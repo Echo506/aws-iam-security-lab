@@ -138,10 +138,10 @@ Este modulo entrega un checklist de auditoria (`docs/04-checklist-auditoria.md`)
 ## Roadmap
 
 - [x] Modulo 1: usuarios y grupos
-- [ ] Modulo 2: politicas de minimo privilegio (ejemplos adicionales)
-- [ ] Modulo 3: roles y AssumeRole cross-account
-- [ ] Modulo 4: enforcement de MFA
-- [ ] Modulo 5: auditoria con CloudTrail + Athena
+-  [x] Modulo 2: politicas de minimo privilegio (ejemplos adicionales)
+- [x] Modulo 3: roles y AssumeRole cross-account
+- [x] Modulo 4: enforcement de MFA
+- [x] Modulo 5: auditoria con CloudTrail + Athena
 - [ ] Modulo 6 (futuro): integracion con AWS Config Rules para deteccion continua
 
 ## Motivacion
