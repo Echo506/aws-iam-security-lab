@@ -1,3 +1,9 @@
+variable "aws_region" {
+  description = "Region de AWS donde se aplican los recursos IAM (IAM es global, pero el provider requiere una region)"
+  type        = string
+  default     = "us-east-1"
+}
+
 variable "dev_bucket_name" {
   description = "Nombre del bucket S3 de desarrollo usado en las politicas de ejemplo"
   type        = string
